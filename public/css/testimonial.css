@@ -70,6 +70,7 @@ body{
     border-radius: 10px;
     box-shadow: 0 5px 10px 1px #cacaca;
     padding: 20px;
+    min-width: 300px;
 
 }
 
@@ -91,3 +92,4 @@ body{
     text-align: right;
 
 }
+
